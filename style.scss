@@ -1,0 +1,219 @@
+body {
+    header {
+        background: #2C3E50;
+
+        nav {
+            .navbar-brand.custom-text {
+                color: white;
+            }
+
+            a {
+                color: white !important;
+            }
+
+        }
+    }
+
+    .custom-main {
+
+        .hero {
+            background: #1ABC9C;
+
+            .row {
+                .custom-main-trais {
+                    height: 2px;
+                    border-bottom: 4px solid white;
+                }
+
+                .col-md-1 {
+                    img {
+                        width: 10px;
+                    }
+                }
+
+                .custom-heading {
+                    color: white
+                }
+
+            }
+
+            .top-content {
+                h1 {
+                    color: white
+                }
+            }
+
+            .top-content-text {
+                h3 {
+                    color: white;
+                }
+            }
+        }
+
+        .tableaux {
+
+            .portfolio {
+                color: #2C3E50;
+
+                .row {
+                    padding: 20px;
+                }
+            }
+        }
+
+        .custom-main {
+            padding: 20px 0;
+            text-align: center;
+
+            .container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .col-md-4 {
+                margin: 0 10px 20px 0 !important;
+                padding: 0;
+
+                img {
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
+
+            .col-md-4:nth-child(3n) {
+                margin-right: 0;
+            }
+        }
+
+        .image-section {
+            .row {
+                .row {
+                    .col-md-4 {
+                        img {
+                            width: 100%;
+                        }
+                    }
+
+                }
+            }
+        }
+
+        .blue-section {
+            background: #1ABC9C;
+            padding: 20px 0;
+            text-align: center;
+
+            h1 {
+                color: white;
+            }
+
+            img {
+                max-width: 100%;
+                height: auto;
+                margin: 20px 0;
+            }
+
+            p {
+                color: white;
+                margin: 10px 0;
+            }
+
+            .d-flex {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+
+        .white-section {
+            background-color: white;
+            padding: 50px 0;
+            text-align: center;
+
+            h1 {
+                color: #2C3E50;
+            }
+
+            img {
+                max-width: 100%;
+                height: auto;
+                margin: 20px 0;
+            }
+
+            form {
+                .form-group {
+                    text-align: left;
+
+                    label {
+                        font-weight: bold;
+                    }
+
+                    input[type="text"],
+                    input[type="email"] {
+                        width: 100%;
+                        padding: 10px;
+                        margin-bottom: 15px;
+                        border: 1px solid #ccc;
+                        border-radius: 4px;
+                    }
+                }
+
+                button {
+                    background: #1ABC9C;
+                    border: 2px solid #1ABC9CA6;
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 4px;
+                    cursor: pointer;
+                }
+            }
+        }
+
+
+
+
+
+
+
+    }
+
+    footer {
+        footer {
+            .section1 {
+        
+                .row {
+                    justify-content: space-between;
+                    align-items: center;
+                }
+        
+                h1 {
+                    color: white;
+                    margin: 10px 0;
+                }
+        
+                p {
+                    color: white;
+                    margin: 10px 0;
+                }
+        
+                img {
+                    display: block;
+                    margin: 0 auto;
+                }
+            }
+        }
+        
+            
+        }
+
+        .section2 {
+            background: #1A252F;
+    
+            p {
+                color: white;
+            }
+        }
+    }
+
+
+}

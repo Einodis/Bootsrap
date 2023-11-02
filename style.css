@@ -1,0 +1,143 @@
+body header {
+  background: #2C3E50;
+}
+body header nav .navbar-brand.custom-text {
+  color: white;
+}
+body header nav a {
+  color: white !important;
+}
+body .custom-main .hero {
+  background: #1ABC9C;
+}
+body .custom-main .hero .row .custom-main-trais {
+  height: 2px;
+  border-bottom: 4px solid white;
+}
+body .custom-main .hero .row .col-md-1 img {
+  width: 100%;
+}
+body .custom-main .hero .row .custom-heading {
+  color: white;
+}
+body .custom-main .hero .top-content h1 {
+  color: white;
+}
+body .custom-main .hero .top-content-text h3 {
+  color: white;
+}
+body .custom-main .tableaux .portfolio {
+  color: #2C3E50;
+}
+body .custom-main .tableaux .portfolio .row {
+  padding: 20px;
+}
+body .custom-main .custom-main {
+  padding: 20px 0;
+  text-align: center;
+}
+body .custom-main .custom-main .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body .custom-main .custom-main .col-md-4 {
+  margin: 0 10px 20px 0 !important;
+  padding: 0;
+}
+body .custom-main .custom-main .col-md-4 img {
+  max-width: 100%;
+  height: auto;
+}
+body .custom-main .custom-main .col-md-4:nth-child(3n) {
+  margin-right: 0;
+}
+body .custom-main .image-section .row .row .col-md-4 img {
+  width: 100%;
+}
+body .custom-main .blue-section {
+  background: #1ABC9C;
+  padding: 20px 0;
+  text-align: center;
+}
+body .custom-main .blue-section h1 {
+  color: white;
+}
+body .custom-main .blue-section img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+body .custom-main .blue-section p {
+  color: white;
+  margin: 10px 0;
+}
+body .custom-main .blue-section .d-flex {
+  flex-direction: column;
+  align-items: center;
+}
+body .custom-main .white-section {
+  background-color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+body .custom-main .white-section h1 {
+  color: #2C3E50;
+}
+body .custom-main .white-section img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+body .custom-main .white-section form .form-group {
+  text-align: left;
+}
+body .custom-main .white-section form .form-group label {
+  font-weight: bold;
+}
+body .custom-main .white-section form .form-group input[type=text],
+body .custom-main .white-section form .form-group input[type=email] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+body .custom-main .white-section form button {
+  background: #1ABC9C;
+  border: 2px solid rgba(26, 188, 156, 0.6509803922);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+body footer .section1 {
+  background-color: #2C3E50;
+  color: white;
+  text-align: center;
+}
+body footer .section1 footer .section1 h1 {
+  color: white;
+  text-align: center;
+  margin: 10px 0;
+}
+body footer .section1 footer .section1 p {
+  color: white;
+  text-align: center;
+  margin: 10px 0;
+}
+body footer .section1 footer .section1 img {
+  display: block;
+  margin: 0 auto;
+}
+body footer .section2 {
+  background-color: #1A252F;
+  text-align: center;
+  color: white;
+}
+body footer .section2 h1 {
+  margin: 20px 0;
+}
+body footer .section2 p {
+  margin: 10px 0;
+}/*# sourceMappingURL=style.css.map */
